@@ -1,0 +1,5 @@
+Prerequisites;
+- Arduino RP2040 Core -> https://github.com/earlephilhower/arduino-pico
+- IMU -> https://github.com/deneyapkart/deneyap-6-eksen-ataletsel-olcum-birimi-arduino-library
+- SensorFusion -> https://github.com/aster94/SensorFusion
+- Adafruit DotStar -> https://github.com/adafruit/Adafruit_DotStar
